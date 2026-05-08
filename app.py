@@ -1,3 +1,5 @@
 print("Hello, World! this is a test for Git-Assignment")
 print("This is the second line of code for Git-Assignment")
 print("This is the third line of code for Git-Assignment")
+print("Now we are switching to a new branch for Git-Assignment")
+print("This is the first line of code for the new branch in Git-Assignment")
